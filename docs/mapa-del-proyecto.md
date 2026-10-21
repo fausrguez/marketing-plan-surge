@@ -30,8 +30,13 @@ El plan se construye en cuatro capas. De arriba abajo:
 - `risks.md` — qué puede salir mal.
 - `metrics.md` — cómo sabemos si funciona.
 
-La idea es sencilla: la capa 1 justifica la 2, la 2 sostiene la 3, y la 4 evita
-que nos llevemos sorpresas.
+**5. Cómo se entrega todo esto**
+- `diapositivas.md` — mapa de las 54 diapositivas de Canva: qué hay hoy en cada
+  una, qué información falta y cuándo se puede dar por terminada. Es el puente
+  entre estos documentos y la presentación final.
+
+La idea es sencilla: la capa 1 justifica la 2, la 2 sostiene la 3, la 4 evita que
+nos llevemos sorpresas, y la 5 es lo que ve quien nos escucha.
 
 ---
 
@@ -49,6 +54,7 @@ que nos llevemos sorpresas.
 | Un riesgo de negocio | `risks.md` |
 | Un número con el que medir algo | `metrics.md` |
 | Una campaña concreta de redes | Archivo nuevo en `analisis-interno/` |
+| Qué diapositiva de Canva toca rellenar | `diapositivas.md` |
 
 Si crees que hace falta un archivo que no existe, propónlo. Es mejor un archivo
 nuevo y claro que meter cosas en el sitio equivocado.

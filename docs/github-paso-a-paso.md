@@ -6,6 +6,9 @@ hace desde el navegador, en github.com.
 Si te pierdes, vuelve a esta idea: **tu trabajo no se pierde nunca**. Cada versión
 del archivo queda guardada y se puede recuperar.
 
+> ¿Solo quieres leer o descargar los documentos? No necesitas esta guía. Mira
+> [`descargar-los-archivos.md`](descargar-los-archivos.md).
+
 ---
 
 ## Antes de empezar
@@ -84,6 +87,28 @@ cuatro trucos:
 
 Pulsa la pestaña **Preview** arriba del editor para ver cómo queda antes de guardar.
 Si algo sale raro, tranquilo: se puede corregir después.
+
+---
+
+## Revisar el cambio de otra persona
+
+Cuando alguien te pida revisión:
+
+1. Abre la pestaña **Pull requests** del repositorio y entra en la que te toca.
+2. Pulsa **Files changed**. Verás en verde lo que se añade y en rojo lo que se quita.
+3. Léelo entero. Si algo no te convence, pon el cursor en esa línea, escribe el
+   comentario y pulsa **Start a review**, y luego **Comment**.
+4. Si todo está bien, pulsa **Review changes** → **Approve**, y después
+   **Merge pull request**.
+
+Tres preguntas antes de aprobar:
+
+- ¿Se entiende sin haber estado en la conversación donde se decidió?
+- ¿Contradice algo de `branding.md` o de `challenges.md`?
+- ¿Las cifras llevan fuente o están marcadas como `[SUPUESTO]`?
+
+Aprobar no es un trámite: es tu firma. Si algo no lo entiendes, pide que te lo
+expliquen en lugar de aprobarlo.
 
 ---
 

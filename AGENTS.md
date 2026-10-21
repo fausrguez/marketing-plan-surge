@@ -11,3 +11,4 @@ La configuración del agente vive en `config/`. Léela antes que nada:
 - `config/who-are-you.md` — rol y reglas de trabajo
 - `config/communication.md` — idioma, tono y formato
 - `config/reading-order.md` — orden de lectura del resto del proyecto
+- `diapositivas.md` — mapa de las 54 diapositivas del plan en Canva
