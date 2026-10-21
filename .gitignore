@@ -1,0 +1,14 @@
+# Archivos de programa que no deben subirse al repositorio
+*.swp
+*.swo
+*~
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Carpetas de herramientas
+.obsidian/
+.vscode/
+.idea/
+node_modules/

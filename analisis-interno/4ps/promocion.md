@@ -1,0 +1,9 @@
+# Promoción
+
+1. Crear una campaña publicitaria basada en los tres momentos del día. Diseñar una campaña bajo un concepto como «Energía natural para cada momento», diferenciando los tres productos con colores, mensajes e imágenes propias en base a las necesidades de cada momento. MORNING: al comenzar el día. NOON: para afrontar la jornada. PUSH: para acompañar momentos de mayor actividad. Canales: Instagram, TikTok, carteles y publicidad digital. Indicadores: alcance, visitas al perfil y CTR.
+
+2. Organizar degustaciones gratuitas. Ofrecer pequeñas muestras en gimnasios, universidades, tiendas ecológicas, espacios de coworking y eventos deportivos. El objetivo es que el consumidor pruebe el sabor y conozca los ingredientes antes de comprar. Priorizar lugares relacionados con cada momento de consumo. Añadir un código QR con información del producto y un cupón de primera compra. Indicadores: muestras entregadas, cupones canjeados y ventas posteriores.
+
+3. Publicar contenido informativo en redes sociales. Crear vídeos cortos, carruseles e infografías sobre los ingredientes, los sabores y los momentos de consumo recomendados. Explicar qué diferencia al matcha, al jengibre o al guaraná. Mostrar el proceso de elaboración, si disponemos de esa información. (Darle una vuelta.) Resolver dudas sobre ingredientes y composición nutricional. Indicadores: interacciones, contenido guardado, reproducciones y visitas a la web.
+
+4. Crear un programa de fidelización sencillo. Incorporar un código QR en el envase o en el expositor para acceder a descuentos, promociones y novedades. Premiar la compra recurrente. Ofrecer una ventaja al completar un pack de variedades. Enviar ofertas a quienes acepten recibir comunicaciones comerciales. Indicadores: usuarios registrados, tasa de recompra y canje de recompensas.
