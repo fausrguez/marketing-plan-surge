@@ -178,17 +178,18 @@ acciones · Presupuesto · Cronograma.
 - **Texto actual:** «MARKETING MIX (4PS)» + cabeceras «Producto», «Precio»,
   «Punto de venta», «Promoción».
 - **Para completarla:** una entrada por columna, máximo 5 bullets cada una:
-  - Producto: formato, ingredientes, sabores, envase.
-  - Precio: PVP, margen de canal, precio de suscripción.
+  - Producto: tres latas, receta por lata, cafeína 80/65/50 mg, sin gas, envase.
+  - Precio: PVP 1,95 €, pack 4 Flama 7,50 €, pack variedades 11,50 €,
+    suscripción 22,90 €; margen pendiente de escandallo.
   - Punto de venta: online + gimnasios, carreras, festivales, lineales.
   - Promoción: muestras, influencers, sorteo, contenido.
 - **Fuente en el repo:** `analisis-interno/4ps/producto.md`,
-  `.../punto-de-venta.md`, `.../promocion.md`. Precio **no tiene fuente**:
-  `.../precio.md` está vacío.
-- **Criterio de cierre:** la tabla se lee de un vistazo y las 4 columnas tienen
-  el mismo nivel de detalle.
-- **Aviso:** sin `precio.md` la columna Precio no se puede cerrar. No inventar
-  PVP ni márgenes.
+  `.../punto-de-venta.md`, `.../promocion.md` y `.../precio.md`.
+- **Criterio de cierre:** la tabla se lee de un vistazo, las 4 columnas tienen
+  el mismo nivel de detalle y el COGS está calculado con las recetas.
+- **Aviso:** `precio.md` tiene el objetivo, pero no el escandallo con las
+  cantidades de `producto.md`. No presentar margen como real hasta tener las tres
+  cotizaciones.
 
 ### 09 — Público objetivo
 - **Sección:** Análisis interno · **Tipo:** título + 2 párrafos
@@ -284,13 +285,17 @@ acciones · Presupuesto · Cronograma.
 - **Texto actual:** «MAPA DE POSICIONAMIENTO» · «+ Precio / − Calidad / + Calidad
   / − Precio» · instrucción de añadir logotipos.
 - **Para completarla:** colocar Surge y los 4 competidores en el cuadrante
-  correcto y escribir en una frase por qué Surge cae ahí. Ejes actuales:
-  precio (vertical) y calidad (horizontal).
-- **Fuente en el repo:** `references.md`, `branding.md`
+  correcto y escribir en una frase por qué Surge cae ahí. Si se representa la
+  familia, Flama va arriba en intensidad, Cocus abajo en ligereza y Mentisimo en
+  el centro. Ejes actuales: precio (vertical) y calidad (horizontal).
+- **Fuente en el repo:** `references.md`, `branding.md`,
+  `analisis-interno/4ps/producto.md`, `analisis-interno/4ps/precio.md`
 - **Criterio de cierre:** la posición de Surge se sostiene con el precio y la
   calidad reales, no con la aspiración.
-- **Aviso:** con `precio.md` vacío, el eje vertical no se puede justificar. Sin
-  precio, usar un eje sustitutivo (naturalidad vs. convencional) y decirlo.
+- **Aviso:** `precio.md` tiene el PVP objetivo, pero no el escandallo. Sin coste
+  real, el eje vertical se justifica con el PVP de 1,95 €, no con el margen. Si no
+  se puede defender, usar un eje sustitutivo (naturalidad vs. convencional) y
+  decirlo.
 
 ### 18 — Separador «Análisis Marketing | Situación actual»
 - **Sección:** — · **Tipo:** separador
@@ -501,7 +506,8 @@ acciones · Presupuesto · Cronograma.
   comunicación...»
 - **Para completarla:** 3 plantillas de feed (producto, ingrediente, estilo de
   vida), 2 ejemplos de copy con el tono 40/60 y la regla de estilo de
-  comunicación en una línea.
+  comunicación en una línea. Añadir los tres patrones de lata: llamas, hojas de
+  menta y cristales de hielo.
 - **Fuente en el repo:** `branding.md`, `config/communication.md`
 - **Criterio de cierre:** las plantillas usan la paleta de marca y cada copy
   ejemplifica un patrón de comunicación.
@@ -597,8 +603,8 @@ acciones · Presupuesto · Cronograma.
 - **Para completarla:** 4–6 campañas con mes, objetivo, presupuesto y red.
 - **Fuente en el repo:** — (depende del presupuesto de la diapositiva 51)
 - **Criterio de cierre:** la suma de campañas no supera el presupuesto anual.
-- **Aviso:** sin `precio.md` no se puede calcular el retorno; dejar el CPA como
-  `[SUPUESTO]`.
+- **Aviso:** sin COGS real no se puede calcular el retorno; dejar el CPA como
+  `[SUPUESTO]` hasta cerrar el escandallo de `precio.md`.
 
 ### 49 — SEM: tipos de campañas
 - **Sección:** Estrategias + acciones · **Tipo:** título + párrafo
@@ -637,7 +643,9 @@ acciones · Presupuesto · Cronograma.
 - **Texto actual:** «CRONOGRAMA DE ACCIONES»
 - **Para completarla:** calendario anual con las acciones de las diapositivas
   38–49 en filas y los meses en columnas, más el hito de lanzamiento y las
-  dependencias (por ejemplo, muestras antes de influencer).
+  dependencias (por ejemplo, muestras antes de influencer). Incluir la producción
+  de las tres referencias, el pack de variedades y la validación del envasado
+  local en Canarias.
 - **Fuente en el repo:** `metrics.md`, `goal.md`
 - **Criterio de cierre:** cada acción de la sección 7 aparece en el cronograma con
   mes de inicio y fin.
@@ -656,12 +664,13 @@ acciones · Presupuesto · Cronograma.
 
 | Dato | Diapositivas afectadas | Archivo que debería tenerlo | Estado |
 | --- | --- | --- | --- |
-| PVP, margen y precio de suscripción | 8, 17, 48 | `analisis-interno/4ps/precio.md` | Vacío |
+| PVP, margen y precio de suscripción | 8, 17, 48 | `analisis-interno/4ps/precio.md` | PVP y packs definidos; falta escandallo |
+| Receta por lata, COGS y LCA | 8, 17, 51 | `analisis-interno/4ps/producto.md`, `.../precio.md` | Receta definida; faltan cotizaciones y LCA |
 | Definición explícita del público | 9, 10–12 | `target.md` | Contiene distribución, no público |
 | Tamaño y crecimiento del mercado | 14, 16 | — | No existe |
 | Buyer personas | 10–12 | — | No existen |
-| Métricas de RRSS | 24, 41 | `metrics.md` | Sólo hay 4 métricas de negocio |
-| Presupuesto y reparto por partida | 48, 51 | — | No existe (la cifra es del curso) |
+| Métricas de RRSS | 24, 41 | `metrics.md` | Hay métricas de negocio y sostenibilidad; faltan RRSS |
+| Presupuesto y reparto por partida | 48, 51 | `producto.md`, `precio.md` | 50.000 € con reparto `[SUPUESTO]`; falta confirmar |
 | Registro de riesgos | 33 | `risks.md` | Vacío |
 | Web y landings | 25, 43 | — | No existen |
 | Datos SEO y SEM de competidores | 28, 29, 30 | — | No existen |

@@ -1,7 +1,7 @@
 # Surge — Plan de Marketing
 
-El plan de marketing de **Surge**, una bebida energética natural. Escribimos entre
-cinco: Juan, Antonio, Carla, Marianna y Fausto.
+El plan de marketing de **Surge**, una bebida energética natural y marca canaria.
+Escribimos entre cinco: Juan, Antonio, Carla, Marianna y Fausto.
 
 Repositorio: https://github.com/fausrguez/marketing-plan-surge
 
@@ -51,14 +51,14 @@ documentos son el material con el que se rellena →
 | [metrics.md](metrics.md) | Cómo medimos si funciona |
 | [risks.md](risks.md) | Qué puede salir mal — **vacío, falta escribirlo** |
 | [analisis-interno/propuesta-de-valor.md](analisis-interno/propuesta-de-valor.md) | Qué aportamos que no aporten otros |
-| [analisis-interno/4ps/producto.md](analisis-interno/4ps/producto.md) | Las tres bebidas y sus sabores |
-| [analisis-interno/4ps/precio.md](analisis-interno/4ps/precio.md) | Cuánto cuesta — **vacío, falta escribirlo** |
+| [analisis-interno/4ps/producto.md](analisis-interno/4ps/producto.md) | Flama, Mentisimo y Cocus: recetas por lata, cafeína y envase |
+| [analisis-interno/4ps/precio.md](analisis-interno/4ps/precio.md) | Precio objetivo y economía — **pendiente de cotizaciones** |
 | [analisis-interno/4ps/punto-de-venta.md](analisis-interno/4ps/punto-de-venta.md) | Dónde se vende |
 | [analisis-interno/4ps/promocion.md](analisis-interno/4ps/promocion.md) | Degustaciones, redes, fidelización |
 | [diapositivas.md](diapositivas.md) | Mapa de las 54 diapositivas de Canva: qué falta en cada una |
 
-Los dos archivos vacíos son los que más urge escribir: sin precio no se puede
-cerrar la columna de Precio del marketing mix ni el mapa de posicionamiento.
+`risks.md` sigue vacío y es el que más urge escribir. `precio.md` ya tiene el
+objetivo de precio; falta el escandallo real con tres cotizaciones.
 
 ---
 

@@ -18,8 +18,9 @@ El plan se construye en cuatro capas. De arriba abajo:
 - `analisis-interno/propuesta-de-valor.md` — qué damos que no dé otro.
 
 **3. Qué hacemos y cómo**
-- `analisis-interno/4ps/producto.md` — las tres bebidas y sus sabores.
-- `analisis-interno/4ps/precio.md` — a cuánto lo vendemos.
+- `analisis-interno/4ps/producto.md` — las tres bebidas, sus recetas y su
+  sostenibilidad.
+- `analisis-interno/4ps/precio.md` — a cuánto lo vendemos y con qué coste.
 - `analisis-interno/4ps/punto-de-venta.md` — dónde se compra.
 - `analisis-interno/4ps/promocion.md` — cómo se da a conocer.
 - `target.md` — a quién le hablamos y por qué canales.
@@ -66,12 +67,11 @@ nuevo y claro que meter cosas en el sitio equivocado.
 **Listos:** `goal.md`, `origin.md`, `branding.md`, `target.md`, `references.md`,
 `challenges.md`, `metrics.md`, `analisis-interno/propuesta-de-valor.md`.
 
-**En progreso:** `producto.md`, `punto-de-venta.md`, `promocion.md`. Tienen
-contenido, pero con partes marcadas como «por estudiar» o «por definir».
+**En progreso:** `producto.md`, `precio.md`, `punto-de-venta.md`, `promocion.md`.
+Tienen contenido, pero con partes marcadas como «por estudiar» o «por definir».
+`precio.md` ya fija el PVP objetivo; falta el escandallo con las recetas.
 
-**Vacíos:** `risks.md` y `analisis-interno/4ps/precio.md`. Están creados y sin
-contenido. Son los dos que más urge escribir, porque el análisis de precio no se
-puede hacer sin ellos.
+**Vacíos:** `risks.md`. Está creado y sin contenido. Es el que más urge escribir.
 
 ---
 
@@ -117,7 +117,7 @@ quien revisa y quien responde de que el archivo esté al día.
 ## Cómo seguimos
 
 1. Repartir los archivos de la tabla de arriba.
-2. Escribir `precio.md` y `risks.md`, que están vacíos.
-3. Decidir una cosa que está sin resolver: `communication.md` dice «sin precio de
-   lujo», pero el plan apunta a 2,50-3 € por lata, cuando Red Bull y Monster están
-   en 1,50-1,80 €. O somos premium de acceso, o el precio baja. Hay que elegir.
+2. Escribir `risks.md` y cerrar `precio.md` con tres cotizaciones.
+3. Confirmar el precio de 1,95 € con el canal. `communication.md` pide «sin precio
+   de lujo»; 1,95 € es premium de acceso, no lujo. Si el canal exige más, se
+   reduce formato o margen, no se salta a 2,50-3 €.
