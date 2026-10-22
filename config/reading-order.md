@@ -29,10 +29,6 @@ ninguno: el contexto se construye de arriba abajo.
 
 ## 4. Presentación
 
-- `diapositivas.md` — mapa de las 54 diapositivas del plan en Canva: qué hay en
-  cada una, qué falta y qué hace falta para cerrarla. Consúltalo antes de
-  escribir cualquier contenido que vaya a la presentación.
-
 ## Archivos que no forman parte del plan
 
 No los uses como fuente de contenido. Son ayuda para el equipo humano:
