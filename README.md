@@ -56,6 +56,7 @@ documentos son el material con el que se rellena →
 | [analisis-interno/4ps/punto-de-venta.md](analisis-interno/4ps/punto-de-venta.md) | Dónde se vende |
 | [analisis-interno/4ps/promocion.md](analisis-interno/4ps/promocion.md) | Degustaciones, redes, fidelización |
 | [diapositivas.md](diapositivas.md) | Mapa de las 54 diapositivas de Canva: qué falta en cada una |
+| [slides/](slides/) | Una ficha por diapositiva (`NN-titulo.md`), enlazadas desde el mapa |
 
 `risks.md` sigue vacío y es el que más urge escribir. `precio.md` ya tiene el
 objetivo de precio; falta el escandallo real con tres cotizaciones.

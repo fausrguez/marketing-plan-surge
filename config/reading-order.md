@@ -29,6 +29,9 @@ ninguno: el contexto se construye de arriba abajo.
 
 ## 4. Presentación
 
+- `diapositivas.md` — mapa e índice de las 54 diapositivas.
+- `slides/NN-titulo.md` — ficha de cada diapositiva (una por archivo).
+
 ## Archivos que no forman parte del plan
 
 No los uses como fuente de contenido. Son ayuda para el equipo humano:
