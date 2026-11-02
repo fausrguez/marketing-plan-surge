@@ -163,12 +163,12 @@ diapositiva. Esta tabla es sólo el índice: el detalle vive en el enlace.
 | --- | --- | --- | --- |
 | PVP, margen y precio de suscripción | 8, 17, 48 | `analisis-interno/4ps/precio.md` | PVP y packs definidos; falta escandallo |
 | Receta por lata, COGS y LCA | 8, 17, 51 | `analisis-interno/4ps/producto.md`, `.../precio.md` | Receta definida; faltan cotizaciones y LCA |
-| Definición explícita del público | 9, 10–12 | `target.md` | Contiene distribución, no público |
+| Definición explícita del público | 9, 10–12 | `target.md` | Resuelto: `target.md` es público objetivo; la distribución pasó a `4ps/punto-de-venta.md` |
 | Tamaño y crecimiento del mercado | 14, 16 | — | No existe |
-| Buyer personas | 10–12 | — | No existen |
+| Buyer personas | 10–12 | `analisis-interno/buyer-personas.md` | Tres personas escritas, pendientes de validar con entrevistas |
 | Métricas de RRSS | 24, 41 | `metrics.md` | Hay métricas de negocio y sostenibilidad; faltan RRSS |
 | Presupuesto y reparto por partida | 48, 51 | `producto.md`, `precio.md` | 50.000 € con reparto `[SUPUESTO]`; falta confirmar |
-| Registro de riesgos | 33 | `risks.md` | Vacío |
+| Registro de riesgos | 33 | `risks.md` | Resuelto R-01 (crisis de Instagram) con protocolo; faltan los riesgos de producto y de canal |
 | Web y landings | 25, 43 | — | No existen |
 | Datos SEO y SEM de competidores | 28, 29, 30 | — | No existen |
 
@@ -182,7 +182,7 @@ diapositiva. Esta tabla es sólo el índice: el detalle vive en el enlace.
 | Mantener o retirar la franja de logotipos institucionales | Obligaciones de publicidad de ayudas | Juan |
 | Cifra de presupuesto: 50.000€ del curso o presupuesto real | Condiciona SEM, muestras e influencers | Antonio |
 | Ejes del mapa de posicionamiento (precio/calidad o natural/convencional) | Sin precio no hay eje vertical defendible | Carla |
-| Número de buyer personas: 3 o 2 | Mejor dos reales que tres inventadas | Marianna |
+| Número de buyer personas: 3 o 2 | Mejor dos reales que tres inventadas | Resuelto: tres, una por puerta de `target.md`. Cocus espera a la recompra del pack |
 | Mantener el DAFO de Zara como ejemplo | En una entrega externa sobra | Fausto |
 
 ---

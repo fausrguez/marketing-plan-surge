@@ -21,6 +21,7 @@ ninguno: el contexto se construye de arriba abajo.
 
 ## 3. Análisis interno
 
+- `analisis-interno/buyer-personas.md`
 - `analisis-interno/propuesta-de-valor.md`
 - `analisis-interno/4ps/punto-de-venta.md`
 - `analisis-interno/4ps/promocion.md`
@@ -44,5 +45,4 @@ No los uses como fuente de contenido. Son ayuda para el equipo humano:
 
 Estos están vacíos. Si tu tarea depende de ellos, dilo antes de improvisar:
 
-- `risks.md`
 - `analisis-interno/4ps/precio.md`

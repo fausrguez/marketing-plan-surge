@@ -12,6 +12,20 @@ Las dos últimas son nuevas y existen por el lanzamiento de tres moods. Sin ella
 no se puede saber si el pack de variedades funciona como prueba o solo como
 canibalización.
 
+## RRSS y crisis
+
+Propuestas: todavía no hay histórico. Se calibran con el primer mes y son las que
+mueve el protocolo de `risks.md`.
+
+- Tiempo hasta la primera respuesta pública, en horas.
+- Menciones negativas por hora y alcance negativo.
+- % de comentarios negativos respondidos en menos de 4 h.
+- Variación de seguidores y de suscriptores online.
+- Bajas de suscripción.
+- % de muestras entregadas con edad verificada.
+- Posts de influencer con claims no autorizados detectados y corregidos.
+- Sentimiento neto.
+
 ## Sostenibilidad
 
 - % de ingredientes de origen canario por SKU.

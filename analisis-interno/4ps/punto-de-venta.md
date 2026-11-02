@@ -6,3 +6,14 @@ La idea es estar en lugares relacionados con el deporte y el bienestar, diferenc
 objetivo y si el precio de 1,95 € por lata encaja con lo que está dispuesto a
 pagar. En Canarias, probar primero tiendas locales, gimnasios y cafeterías antes
 de escalar a península.)
+
+## Canales del plan
+
+Movido desde `target.md`, que hasta ahora contenía distribución y no público.
+
+- Presencia en tienda: lineal, nevera y expositor.
+- Tienda online con suscripción.
+- Alianzas con nutricionistas y entrenadores.
+- Muestras en gimnasios, carreras y festivales. Desarrollado en
+  `promocion.md` §2.
+- Influencers deportivos y de nutrición. Desarrollado en `promocion.md`.
