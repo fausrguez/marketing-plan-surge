@@ -11,7 +11,8 @@
   - Producto: tres latas, receta por lata, cafeína 80/65/50 mg, sin gas, envase.
   - Precio: PVP 1,95 €, pack 4 Flama 7,50 €, pack variedades 11,50 €,
     suscripción 22,90 €; margen pendiente de escandallo.
-  - Punto de venta: online + gimnasios, carreras, festivales, lineales.
+  - Punto de venta: online + gimnasios, carreras, festivales, lineales y
+    Decathlon.
   - Promoción: muestras, influencers, sorteo, contenido.
 - **Fuente en el repo:** `analisis-interno/4ps/producto.md`,
   `.../punto-de-venta.md`, `.../promocion.md` y `.../precio.md`.

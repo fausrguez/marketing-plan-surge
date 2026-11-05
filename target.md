@@ -25,7 +25,7 @@ marcado `[SUPUESTO]`.
 | Consumo actual | De 1 a 3 cafés al día o una energética. No es su primera bebida con cafeína | `[SUPUESTO]` |
 | Actividad | Deporte dos o más veces por semana, o trabajo físico y de turnos | `[SUPUESTO]` |
 | Conducta | Lee la dosis de cafeína y los ingredientes; ha reducido la energética convencional o quiere reducirla | `origin.md` |
-| Compra | Online (web y suscripción), gimnasio, cafetería y tienda especializada | `punto-de-venta.md` |
+| Compra | Online (web y suscripción), gimnasio, cafetería, tienda especializada y retail deportivo (Decathlon) | `punto-de-venta.md` |
 | Estilo de vida | Activo y urbano: combina deporte, trabajo o estudio y ocio en el mismo día. Consume más de una bebida con cafeína al día, no una sola `[SUPUESTO]` | Aportado por el equipo; `branding.md` |
 | Intereses y valores | Naturalidad y transparencia: afinidad con lo botánico y con el diseño cuidado. Que el diseño no active códigos de lujo ni precio premium | Aportado por el equipo; `branding.md` |
 
