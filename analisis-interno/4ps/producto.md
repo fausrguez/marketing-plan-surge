@@ -276,16 +276,16 @@ parecen Tic Tac, el producto parece chicle.
 lineal.
 
 - **Flama:** individual y pack de 4.
-- **Pack de variedades:** 2 de cada. Es la forma de probar los tres moods y de que
+- **Pack Starter:** Es la forma de probar los tres moods y de que
   el consumidor elija.
 - **Mentisimo y Cocus en individual:** cuando el pack diga cuál se repite.
 
-Producción inicial: 30.000 latas, 10.000 por referencia `[SUPUESTO: confirmar
+Producción inicial: 6.000 latas, 3.000 por referencia `[SUPUESTO: confirmar
 MOQ]`. Si el copacker pide 15.000 por SKU, hay que subir a 45.000 o dejar dos
 referencias en el lanzamiento. Esa es la conversación con el copacker, no una
 decisión de diseño.
 
-El pack de variedades también resuelve la métrica: con un QR o una encuesta
+El pack Rutina mensual también resuelve la métrica: con un QR o una encuesta
 post-compra se puede saber qué lata se repite. No es perfecto, pero es mejor que
 lanzar tres individuales y no saber cuál funciona.
 
@@ -363,7 +363,7 @@ revisión legal.
 | `precio.md` | Recalcular COGS con las cantidades de esta ficha; Mentisimo sustituye a Black Tea |
 | `branding.md` | Mentisimo sustituye a Black Tea; verde profundo y patrón de hojas de menta |
 | `propuesta-de-valor.md` | Mentisimo, receta publicada por lata y origen canario sin alegar sostenibilidad |
-| `diapositivas.md` 08 (4Ps) | Tres SKU, receta por lata, cafeína 80/65/50, precio 1,95 € y pack de variedades |
+| `diapositivas.md` 08 (4Ps) | Tres SKU, receta por lata, cafeína 80/65/50, precio 2,95 € y pack starter |
 | `diapositivas.md` 16 (competidores) | Surge con tres latas; Celsius en lata; AG1 y Spacegoods son polvo |
 | `diapositivas.md` 17 (posicionamiento) | Flama arriba en intensidad, Cocus abajo en precio/ligereza, Mentisimo en el centro |
 | `diapositivas.md` 39 (RRSS) | Tres diseños de lata, tres patrones y tres momentos |
@@ -378,7 +378,7 @@ revisión legal.
 | 2 | Brief y tres cotizaciones a copackers, incluida una opción canaria | Antonio | 0 | 3 semanas | Latas vendidas por tienda y semana |
 | 3 | Revisión legal de etiquetas, claims y aviso de cafeína | Carla | 800–1.500 € `[SUPUESTO]` | 3 semanas | Puntos de venta |
 | 4 | Formulación y panel sensorial con las cantidades de esta ficha | Marianna | 2.500–4.000 € `[SUPUESTO]` | 6 semanas | Personas alcanzadas con muestras |
-| 5 | Diseño de las tres latas y del pack de variedades | Fausto | 2.000–3.000 € `[SUPUESTO]` | 4 semanas | Puntos de venta |
+| 5 | Diseño de las tres latas y del pack starter | Fausto | 2.000–3.000 € `[SUPUESTO]` | 4 semanas | Puntos de venta |
 | 6 | Precio, margen y escandallo con las recetas reales | Antonio | 0 | 2 semanas | Suscriptores |
 | 7 | Test de etiqueta en hielo y nevera | Marianna | 0–200 € | 2 semanas | Puntos de venta |
 | 8 | Proveedores locales de mango, menta y lima; LCA simplificado | Carla | 3.000–6.000 € `[SUPUESTO]` | 8 semanas | Métricas de sostenibilidad |
