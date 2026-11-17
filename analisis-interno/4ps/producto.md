@@ -293,12 +293,14 @@ lanzar tres individuales y no saber cuál funciona.
 
 | Producto | Formato | PVP | Precio por lata | Nota |
 | --- | --- | --- | --- | --- |
-| Flama | Lata 330 ml | 1,95 € | 1,95 € | Impulso |
-| Mentisimo | Lata 330 ml | 1,95 € | 1,95 € | Impulso |
-| Cocus | Lata 330 ml | 1,95 € | 1,95 € | Impulso |
-| Pack 4 Flama | 4 latas | 7,50 € | 1,88 € | Prueba |
-| Pack variedades | 6 latas (2+2+2) | 11,50 € | 1,92 € | Prueba de los tres moods |
-| Suscripción | 12 latas | 22,90 € | 1,91 € | Envío incluido |
+| Flama | Lata 330 ml | 2.95 € | Impulso |
+| Mentisimo | Lata 330 ml | 2,95 €| Impulso |
+| Cocus | Lata 330 ml | 2,95 € | 2,95 € | Impulso |
+| Pack Starter | 6 latas | 12,90 € | 2,15 € | Prueba |
+| Rutina Mensual. Suscripción | 24 latas | 49,90 € | 2,08 € | Prueba de los tres moods |
+| Rutina mensual. Compra única | 24 latas | 59,90 € | 2,50 € | Envío incluido |
+
+"Envío incluido" a partir de 39,95 €
 
 `precio.md` tiene el objetivo, no el escandallo real. Las cifras son `[SUPUESTO]`
 hasta tener tres cotizaciones.
@@ -316,16 +318,16 @@ formato o margen, no saltar a 2,50–3,00 €.
 
 | Partida | € | Qué incluye |
 | --- | --- | --- |
-| Primera producción (30.000 latas) | 15.000 | Tres referencias, 10.000 de cada; incluye 3.000 latas de muestra |
-| Etiqueta, arte, fotografía y legal | 3.000 | Tres diseños, fotos, revisión de claims |
-| Activaciones y muestras | 4.000 | Gimnasios, carreras, coworkings, personal |
-| Influencers | 7.000 | 6–8 perfiles micro |
-| Medios pagados | 8.000 | Instagram, TikTok, Google |
-| Contenido | 4.000 | Vídeo y foto de producto |
-| Web y suscripción | 3.000 | Plataforma, plugins, integración |
-| Logística y fulfillment | 3.000 | Primer trimestre |
-| Contingencia | 3.000 | 6 % |
-| **Total** | **50.000** | |
+| Primera producción (6.000 latas) | 5.460–8.560 € | Tres referencias, 2.000 de cada
+| Etiqueta, arte, fotografía y legal | Tres diseños, fotos, revisión de claims |
+| Activaciones y muestras | 1.000 | Gimnasios, carreras, coworkings, personal |
+| Influencers | 3.000 | 6–8 perfiles micro |
+| Medios pagados | 500 | Instagram, TikTok, Google |
+| Contenido | 500 | Vídeo y foto de producto |
+| Web y suscripción | 1.000 | Plataforma, plugins, integración |
+| Logística y fulfillment | Primer trimestre |
+| Contingencia | 6 % |
+
 
 Todas las partidas son `[SUPUESTO]`. Si el presupuesto real no son 50.000 €, se
 reescala la producción primero y la contingencia después; no se recorta la
