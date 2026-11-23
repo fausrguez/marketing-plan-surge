@@ -161,7 +161,7 @@ diapositiva. Esta tabla es sólo el índice: el detalle vive en el enlace.
 
 | Dato | Diapositivas afectadas | Archivo que debería tenerlo | Estado |
 | --- | --- | --- | --- |
-| PVP, margen y precio de suscripción | 8, 17, 48 | `analisis-interno/4ps/precio.md` | PVP y packs definidos; falta escandallo |
+| PVP, margen y precio de suscripción | 8, 17, 48 | `analisis-interno/4ps/precio.md` | PVP y packs definidos; modelo de 24 latas añadido; falta escandallo |
 | Receta por lata, COGS y LCA | 8, 17, 51 | `analisis-interno/4ps/producto.md`, `.../precio.md` | Receta definida; faltan cotizaciones y LCA |
 | Definición explícita del público | 9, 10–12 | `target.md` | Resuelto: `target.md` es público objetivo; la distribución pasó a `4ps/punto-de-venta.md` |
 | Tamaño y crecimiento del mercado | 14, 16 | — | No existe |
@@ -169,8 +169,8 @@ diapositiva. Esta tabla es sólo el índice: el detalle vive en el enlace.
 | Métricas de RRSS | 24, 41 | `metrics.md` | Hay métricas de negocio y sostenibilidad; faltan RRSS |
 | Presupuesto y reparto por partida | 48, 51 | `producto.md`, `precio.md` | 50.000 € con reparto `[SUPUESTO]`; falta confirmar |
 | Registro de riesgos | 33 | `risks.md` | Resuelto R-01 (crisis de Instagram) con protocolo; faltan los riesgos de producto y de canal |
-| Web y landings | 25, 43 | — | No existen |
-| Datos SEO y SEM de competidores | 28, 29, 30 | — | No existen |
+| Web y landings | 25, 43 | `../surge-website` | Implementadas; fuentes en `docs/fuentes-canva-miro.md` |
+| Datos SEO y SEM de competidores | 28, 29, 30, 44 | `docs/fuentes-canva-miro.md` | Miro contiene PPTX de keywords y capturas SEM; falta transcribir |
 
 ---
 

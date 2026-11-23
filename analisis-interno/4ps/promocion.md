@@ -45,7 +45,7 @@ Vídeos cortos, carruseles e infografías sobre:
 
 Indicadores: interacciones, contenido guardado, reproducciones y visitas a la web.
 
-## 4. Programa de fidelización
+## 4. Programa de fidelización: SURGE Club
 
 - QR en la lata o en el pack para acceder a descuentos, novedades y al pack de
   variedades.
@@ -55,3 +55,26 @@ Indicadores: interacciones, contenido guardado, reproducciones y visitas a la we
 - Enviar ofertas solo a quien acepte comunicaciones comerciales.
 
 Indicadores: usuarios registrados, recompra por SKU y canje de recompensas.
+
+## 5. Campaña Bestial Race
+
+Acción de marca y comunidad planteada en el tablero Miro y en el brief de la
+landing. No es un patrocinio oficial confirmado.
+
+- **Tres equipos:** Team Flama, Team Mentisimo y Team Cocus.
+- **Influencers por equipo:**
+  - Team Flama: Armide Soliveres, Anixua Perera y Lola Ortiz.
+  - Team Mentisimo: Iraida Martín, Pablo Vera y Gazz.
+  - Team Cocus: Zulay Marrero, El Morito Canario y Tania Pyetku.
+- **Merchandising:** camisetas de equipo, braga deportiva, gorra, calcetines,
+  botella, medalla y mochila. Propuesta sujeta a presupuesto y aprobación.
+- **Activaciones:** punto de encuentro SURGE, zona de fotos, reto para conseguir
+  merchandising, reto entre equipos, participación de influencers y suscriptores y
+  gymkana posterior.
+- **Calendario:** mayo de pre-lanzamiento, junio de carrera y julio de
+  post-campaña.
+- **Hashtags:** `#ViveSurge`, `#SurgeLifestyle`, `#Healthy` y `#SurgeCanarias`.
+
+No inventar reglas, premios, horarios ni detalles logísticos. La fecha exacta de
+la carrera está pendiente.
+

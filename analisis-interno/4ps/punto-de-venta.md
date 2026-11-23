@@ -18,6 +18,34 @@ Movido desde `target.md`, que hasta ahora contenía distribución y no público.
   `promocion.md` §2.
 - Influencers deportivos y de nutrición. Desarrollado en `promocion.md`.
 
+## Prospectos del tablero Miro (sin acuerdo)
+
+El tablero Miro recoge una lista de sitios a visitar. **No son acuerdos**: son
+puntos de prospección para la fase 1 en Gran Canaria.
+
+- **Gimnasios y estudios:** CrossFit Anivia, Elite Fitness, Om Yoga y El Cielo es
+  el Límite.
+- **Cafeterías y tiendas:** Caracolillo, Cuptural, Siete Razones, La Sereta, Lola
+  Ecomarket y Yerbahuerto.
+- **Otros:** ULPGC, coworkings del centro, eventos deportivos y la web propia.
+
+Estado: pendiente de visita y negociación. No se publican como puntos de venta en
+la web hasta confirmar condiciones y stock.
+La web muestra Decathlon Tamaraceite y cinco gimnasios por indicación del equipo;
+confirmar con cada uno antes de mantenerlos como puntos activos.
+
+## Reparto del piloto por canal
+
+El modelo de negocio del tablero Miro propone:
+
+- **60 % físico:** 1.800 latas para gimnasios, cafeterías y tiendas, con venta
+  mayorista.
+- **40 % online:** 1.200 latas para la tienda propia, packs Starter, suscripción y
+  compra única.
+
+Es una hipótesis inicial para probar ambos canales `[SUPUESTO]`, no una decisión
+cerrada.
+
 ## Decathlon
 
 Decathlon entra como punto de venta de retail deportivo en fase de prueba. Aporta

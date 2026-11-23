@@ -15,6 +15,37 @@ Todas las cifras son `[SUPUESTO]`. No hay cotizaciones, ni margen de canal
 cerrado, ni tipo de IVA/IGIC confirmado. Este archivo fija el objetivo; no es un
 escandallo.
 
+### Modelo de precio del tablero Miro (web de 24 latas)
+
+El tablero Miro y la web trabajan con un modelo distinto al de la tabla anterior:
+no se venden latas sueltas online, sino packs de 24 latas.
+
+| Producto | Formato | Precio | Precio/lata | Nota |
+| --- | --- | --- | --- | --- |
+| Pack Rutina · compra única | 24 latas | 59,90 € | 2,49 € | Envío gratuito |
+| Pack Rutina · suscripción | 24 latas/mes | 49,90 € | 2,08 € | Envío automático cada 30 días |
+| PVP individual en local | 1 lata | 3,50–3,80 € | — | Cafeterías y gimnasios |
+| Ingreso medio por lata | 1 lata | 2,50–3,00 € | — | Excepto packs |
+| Coste variable | 1 lata | 0,65 € | — | `[SUPUESTO]` |
+| Costes fijos mensuales | — | 2.000 € | — | `[SUPUESTO]` |
+| Facturación mensual | 3.000 latas | 7.500 € | — | `[SUPUESTO]` |
+| Facturación anual | — | 90.000 € | — | `[SUPUESTO]` |
+| Resultado mensual antes de impuestos | — | 3.550 € | — | `[SUPUESTO]` |
+
+Datos del tablero Miro, no de cotizaciones. El propio tablero advierte que la
+estimación no incluye impuestos indirectos, costes financieros, inversión inicial
+ni otros gastos.
+
+Conflictos que el equipo tiene que cerrar:
+
+- **Precio individual:** Canva y Miro hablan de 2,50–3,00 €; la tabla de arriba
+  fija 1,95 €. No se cambia la web hasta decidir.
+- **Suscripción:** `precio.md` tenía 12 latas por 22,90 €; el modelo Miro/web usa
+  24 latas por 49,90 €. La web ya muestra el de 24 latas.
+- **IGIC:** el Miro menciona un 15 % para bebidas de más de 150 mg/l. No se ha
+  verificado. `[SUPUESTO: confirmar con asesor fiscal]`. No usar el 15 % en la web.
+- **Coste variable y fijos:** son estimaciones, no escandallo.
+
 ### Por qué 1,95 €
 
 - Está por debajo del umbral psicológico de 2 € y por encima de la energética
