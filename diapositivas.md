@@ -81,7 +81,7 @@ tal cual. Ver sección 7.
 | 3 | Análisis externo | 13–17 | Texto de relleno + 1 mapa vacío |
 | 4 | Análisis marketing (situación actual) | 18–30 | Tablas vacías + instrucciones |
 | 5 | DAFO | 31–33 | Ejemplo del curso + ficha vacía |
-| 6 | Plan de acción: objetivos | 34–36 | Estructura lista |
+| 6 | Plan de acción: objetivos | 34–36 | Objetivos escritos; falta fecha M0 |
 | 7 | Plan de acción: estrategias y acciones | 37–49 | Títulos e instrucciones |
 | 8 | Plan de acción: presupuesto | 50–51 | Cifra del curso |
 | 9 | Plan de acción: cronograma | 52–53 | Vacío |
@@ -161,6 +161,7 @@ diapositiva. Esta tabla es sólo el índice: el detalle vive en el enlace.
 
 | Dato | Diapositivas afectadas | Archivo que debería tenerlo | Estado |
 | --- | --- | --- | --- |
+| Fecha de primera producción (M0) | 36, 48, 53 | — | Fijada el 26 de junio de 2027 (lanzamiento en Bestial Race); el resto de fechas del cronograma son `[SUPUESTO]` |
 | PVP, margen y precio de suscripción | 8, 17, 48 | `analisis-interno/4ps/precio.md` | PVP y packs definidos; modelo de 24 latas añadido; falta escandallo |
 | Receta por lata, COGS y LCA | 8, 17, 51 | `analisis-interno/4ps/producto.md`, `.../precio.md` | Receta definida; faltan cotizaciones y LCA |
 | Definición explícita del público | 9, 10–12 | `target.md` | Resuelto: `target.md` es público objetivo; la distribución pasó a `4ps/punto-de-venta.md` |
